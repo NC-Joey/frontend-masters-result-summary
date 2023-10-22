@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./solution/fullscreen.png)
-![](./solution/mobile.png)
+[Mobile view](./solution/fullscreen.png)
+[Desktop view](./solution/mobile.png)
 
 
 ### Built with
