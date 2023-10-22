@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Mobile view](./solution/fullscreen.png)
-[Desktop view](./solution/mobile.png)
+  - [Desktop view](./solution/fullscreen.png)
+  - [Mobile view](./solution/mobile.png)
 
 
 ### Built with
